@@ -7,14 +7,17 @@
 
 Have you ever been scared for your NFT? Worried that its price might drop while you're asleep? Well, fret no more! NFTGuard is here to protect your investments by monitoring NFT prices, alerting you about critical price changes, and even selling your NFT on your behalf if needed.
 
+NFTGuard isnt just a safe mesaure for your NFT's and your investment. It has a clean portfolio page for your nft's, in future it would also recommend NFT to buy based on price trends.
+
 ## Powered by bitsCrunch
 
-NFTGuard leverages **bitsCrunch** to provide real-time price estimates and analytics for NFTs. By utilizing AI-powered valuation tools, bitsCrunch ensures that users receive accurate price tracking, historical trends, and predictive insights, helping them make informed decisions.&#x20;
+NFTGuard leverages **bitsCrunch** to provide real-time price estimates and analytics for NFTs. By utilizing AI-powered valuation tools, bitsCrunch ensures that users receive accurate price tracking, historical trends, and predictive insights, helping them make informed decisions.&#x20; This project is made possible to their data, and we are more than enthusiastic to build a more healthy relationship with them.
+
 
 ## Key Features:
 
 - **NFT Monitoring:** Users can track the value of their NFTs.
-- **Price Alerts:** Users can set automatic or custom price thresholds to receive notifications.
+- **Notification on Price Alerts:** Users can set automatic or custom price thresholds to receive notifications.
 - **Automated Selling:** If the price drops too low, NFTGuard can automatically sell the NFT on behalf of the user.
 - **AI-Powered Insights:** AI agents assist users in decision-making regarding their NFT holdings.
 - **Wallet Integration:** Users connect their wallets to NFTGuard for seamless tracking and automated transactions.
